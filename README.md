@@ -31,4 +31,4 @@ Text formatting:
 
 ### Another L3 subheading
 
-！[some screenshot](
+![some screenshot](./img/Bowie.jpg)
