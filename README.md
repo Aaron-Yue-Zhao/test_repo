@@ -14,9 +14,9 @@ Bullet list:
 
 Numbered list:
 
-1.first item
-2.2nd item
-3.etc
+1. first item
+2. 2nd item
+3. etc
 
 Text formatting:
 
