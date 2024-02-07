@@ -25,6 +25,10 @@ Text formatting:
 - ~~strikethrough~~ text
 - [link description](http://...link...)
 
+![Google logo](把图片直接显示出来link)
+
 ## This is another L2 heading
 
 ### Another L3 subheading
+
+！[some screenshot](
